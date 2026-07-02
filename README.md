@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
