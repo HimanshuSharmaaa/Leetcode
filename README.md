@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
