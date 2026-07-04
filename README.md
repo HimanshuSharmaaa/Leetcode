@@ -52,11 +52,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0125-valid-palindrome) |
+| [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -111,11 +113,13 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Depth-First Search
 |  |
