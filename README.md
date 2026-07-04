@@ -6,6 +6,7 @@
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0735-asteroid-collision) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
