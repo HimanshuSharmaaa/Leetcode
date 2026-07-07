@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0007-reverse-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
