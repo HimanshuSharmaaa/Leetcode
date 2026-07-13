@@ -1,24 +1,21 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        vector<int> store;
-        int num, last;
-        queue<int> q;
+        vector<int> store, ans;
 
-        for (int i = 1; i < 9; i++) q.push(i);
-
-        while (!q.empty()) {
-            num = q.front();
-            q.pop();
-
-            if(num > high) continue;
-            if (low <= num && num <= high) store.push_back(num);
-
-            last = num % 10;
-            if (last < 9) {
-                num = num * 10 + (last + 1);
-                q.push(num);
+        for (int len = 2; len < 10; len++) {
+            for (int start = 1; start <= 10 - len; start++) {
+                int num = 0;
+                for (int d = start; d < start + len; d++) {
+                    num = num * 10 + d;
+                }
+                if (num >= low && num <= high) store.push_back(num);
             }
+        }
+
+        for (int i = 2; i < store.size(); i++) {
+            if (i > high) break;
+            if (low <= i && i <= high) ans.push_back(i);
         }
 
         return store;
