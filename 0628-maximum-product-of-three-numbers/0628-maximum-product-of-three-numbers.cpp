@@ -1,10 +1,35 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-        int product1 = nums[0] * nums[1] * nums[n-1];
-        int product2 = nums[n-1] * nums[n-2] * nums[n-3];
-        return product1 < product2 ? product2 : product1;
+        int fM = INT_MIN, sM = INT_MIN, tM = INT_MIN;
+        int fL = INT_MAX, sL = INT_MAX;
+
+        for (int x : nums) {
+
+            // Three largest numbers
+            if (x >= fM) {
+                tM = sM;
+                sM = fM;
+                fM = x;
+            }
+            else if (x >= sM) {
+                tM = sM;
+                sM = x;
+            }
+            else if (x > tM) {
+                tM = x;
+            }
+
+            // Two smallest numbers
+            if (x <= fL) {
+                sL = fL;
+                fL = x;
+            }
+            else if (x < sL) {
+                sL = x;
+            }
+        }
+
+        return max(fM * sM * tM, fM * fL * sL);
     }
 };
