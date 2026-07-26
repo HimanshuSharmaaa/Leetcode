@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0007-reverse-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
