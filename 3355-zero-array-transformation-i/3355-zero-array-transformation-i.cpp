@@ -11,9 +11,10 @@ public:
         for(int i = 0; i < nums.size(); i++) {
             if(i > 0) dec[i] += dec[i-1];
             nums[i] += dec[i];
+            if(nums[i] > 0) return false;
         }
 
-        for(int i : nums) if(i > 0) return false;
+        // for(int i : nums) if(i > 0) return false;
         return true;
     }
 };
