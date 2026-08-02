@@ -25,6 +25,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3355-zero-array-transformation-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -82,6 +83,7 @@
 | [0848-shifting-letters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0848-shifting-letters) |
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3355-zero-array-transformation-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
