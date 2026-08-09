@@ -27,6 +27,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -55,6 +56,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -92,6 +94,7 @@
 | [1140-stone-game-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1140-stone-game-ii) |
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -138,11 +141,13 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
