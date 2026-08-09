@@ -1,22 +1,25 @@
 class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k, int numOperations) {
-        int max_val = *max_element(nums.begin(), nums.end()) + k;
-        vector<int> diff(max_val+2, 0);
+        int max_val = *max_element(nums.begin(), nums.end());
+        int maxSum = 1, cumSum = 0;
         unordered_map<int, int> freq;
-        int maxSum = 1;
+        map<int,int> diff;
 
         for(int i = 0; i < nums.size(); i++) {
+            freq[nums[i]]++;
+
             int l = max(nums[i]-k, 0), r = min(nums[i]+k, max_val);
             diff[l]++, diff[r+1]--;
-            freq[nums[i]]++;
+            diff[nums[i]] += 0;
         }
 
-        for(int i = 0; i <= max_val; i++) {
-            diff[i] += (i > 0 ? diff[i-1] : 0);
+        for(auto it = diff.begin(); it != diff.end(); it++) {
+            it->second += cumSum;
+            cumSum = it->second;
 
-            int remainig = diff[i] - freq[i];
-            maxSum = max(min(remainig, numOperations) + freq[i], maxSum);
+            int remainig = it->second - freq[it->first];
+            maxSum = max(min(remainig, numOperations) + freq[it->first], maxSum);
         }        
 
         return maxSum;
