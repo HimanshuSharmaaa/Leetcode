@@ -23,6 +23,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -93,6 +94,7 @@
 | [0848-shifting-letters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1140-stone-game-ii) |
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3355-zero-array-transformation-i) |
@@ -178,6 +180,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
