@@ -25,6 +25,7 @@
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -69,6 +70,7 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Search
 |  |
