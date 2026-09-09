@@ -1,17 +1,14 @@
 class Solution {
 public:
     long long countCommas(long long n) {
-        long long ans = 0, lower = 1000, upper, count, comma = 1;
+        long long result = 0;
 
-        while(lower <= n) {
-            upper = lower * 1000 - 1;
-            if(upper > n) upper = n;
-            
-            ans += (upper - lower + 1) * comma;
-            lower *= 1000;
-            comma++;
-        }
+        if(n > 999) result += n - 1000 + 1;
+        if(n > 999999) result += n - 1000000 + 1;
+        if(n > 999999999) result += n - 1000000000 + 1;
+        if(n > 999999999999) result += n - 1000000000000 + 1;
+        if(n > 999999999999999) result += n - 1000000000000000 + 1;
 
-        return ans;
+        return result;
     }
 };
