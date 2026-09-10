@@ -306,6 +306,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -433,4 +434,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
