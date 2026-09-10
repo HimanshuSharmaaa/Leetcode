@@ -11,11 +11,10 @@ public:
     
     void pop() {
         if(st.empty()) return;
-        int minEle1 = st.top().second;
         st.pop();
         
-        if(!st.empty() && minEle1 < st.top().second) lastMin = st.top().second;
         if(st.empty()) lastMin = INT_MAX;
+        else lastMin = st.top().second;
     }
     
     int top() {
