@@ -67,6 +67,7 @@
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0125-valid-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3356-zero-array-transformation-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -162,6 +163,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -181,6 +183,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -290,6 +293,7 @@
 | [1510-stone-game-iv](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
