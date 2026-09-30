@@ -5,15 +5,9 @@ public:
         const int m = grid[0].size();
         const int pathLen = n + m - 1;
 
-        if (pathLen % 2 == 1) {
-            return false;
-        }
-        if (grid[0][0] != '(' || grid[n - 1][m - 1] != ')') {
-            return false;
-        }
+        if (pathLen % 2 == 1 || grid[0][0] != '(' || grid[n - 1][m - 1] != ')') return false;
 
         vector<vector<bitset<201>>> dp(n, vector<bitset<201>>(m));
-
         dp[0][0].set(1);
 
         for (int i = 0; i < n; ++i) {
