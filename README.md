@@ -72,6 +72,7 @@
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3356-zero-array-transformation-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3356-zero-array-transformation-ii) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -126,6 +128,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -136,6 +139,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -479,6 +483,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Range Minimum/Maximum Query
 |  |
