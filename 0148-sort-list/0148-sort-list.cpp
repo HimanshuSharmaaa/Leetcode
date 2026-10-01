@@ -31,13 +31,12 @@ public:
             slow = slow->next;
         }
 
-        ListNode* left = head;
         ListNode* right = slow->next;
         slow->next = NULL;
 
-        left = sortList(left);
+        head = sortList(head);
         right = sortList(right);
 
-        return mergeList(left, right);
+        return mergeList(head, right);
     }
 };
