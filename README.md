@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -544,4 +546,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
