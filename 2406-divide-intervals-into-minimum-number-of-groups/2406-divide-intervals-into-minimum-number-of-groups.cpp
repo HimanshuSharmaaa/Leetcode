@@ -1,19 +1,17 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& in) {
-        multiset<int> result;
+        priority_queue<int, vector<int>, greater<int>> pq;
         sort(in.begin(), in.end());
-        result.insert(-1);
+        pq.push(-1);
 
         for(int i = 0; i < in.size(); i++) {
-            int found = -1;
-
-            if(*result.begin() < in[i][0]) {
-                result.erase(result.begin());
-                result.insert(in[i][1]);
-            } else result.insert(in[i][1]);
+            if(pq.top() < in[i][0]) {
+                pq.pop();
+                pq.push(in[i][1]);
+            } else pq.push(in[i][1]);
         }
 
-        return result.size();
+        return pq.size();
     }
 };
