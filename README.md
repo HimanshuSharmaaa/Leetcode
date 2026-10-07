@@ -39,6 +39,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -77,6 +78,7 @@
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3356-zero-array-transformation-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3356-zero-array-transformation-ii) |
@@ -96,6 +98,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -159,6 +162,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1872-stone-game-viii) |
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -193,6 +197,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -288,6 +293,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
