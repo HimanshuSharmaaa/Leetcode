@@ -202,6 +202,7 @@
 | [0032-longest-valid-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0848-shifting-letters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0848-shifting-letters) |
@@ -262,6 +263,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -482,6 +484,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
