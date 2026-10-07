@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0486-predict-the-winner) |
@@ -186,6 +187,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0435-non-overlapping-intervals) |
