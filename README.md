@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -187,6 +188,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0402-remove-k-digits) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0486-predict-the-winner) |
