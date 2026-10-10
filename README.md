@@ -12,6 +12,7 @@
 | [0135-candy](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -95,6 +96,7 @@
 | [0056-merge-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -147,6 +150,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -309,6 +313,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -476,6 +481,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -590,6 +596,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -598,4 +605,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
