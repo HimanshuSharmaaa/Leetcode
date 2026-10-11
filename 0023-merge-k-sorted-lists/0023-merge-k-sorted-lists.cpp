@@ -17,6 +17,7 @@ public:
             dummy = dummy->next;
         }
 
+        dummy->next = NULL;
         return head->next;
     }
 };
