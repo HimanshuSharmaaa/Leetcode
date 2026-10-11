@@ -46,6 +46,7 @@
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
