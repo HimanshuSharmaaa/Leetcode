@@ -64,6 +64,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -119,6 +120,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -339,6 +341,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3620-network-recovery-pathways](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
