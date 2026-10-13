@@ -1,23 +1,19 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        int rank = 1, prev, n = arr.size();
-        
-        if(n == 0) return {};
-        priority_queue<int, vector<int>, greater<int>> pq;
         unordered_map<int,int> mpp;
-        vector<int> result(arr.size(), 0);
+        vector<int> sorted = arr;
 
-        for(int i : arr) pq.push(i);
-        prev = pq.top();
+        for(int i = 0; i < arr.size(); i++) mpp[arr[i]] = i;
+        sort(sorted.begin(), sorted.end());
 
-        while(!pq.empty()) {
-            if(prev != pq.top()) rank++, prev = pq.top();
-            mpp[pq.top()] = rank;
-            pq.pop();
+        int rank = 1;
+        for(int i = 0; i < sorted.size(); i++) {
+            if(i > 0 && sorted[i] != sorted[i-1]) rank++;
+            mpp[sorted[i]] = rank;
         }
 
-        for(int i = 0; i < n; i++) result[i] = mpp[arr[i]];
-        return result;
+        for(int i = 0; i < sorted.size(); i++) arr[i] = mpp[arr[i]];
+        return arr;
     }
 };
