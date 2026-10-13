@@ -1,11 +1,14 @@
 class Solution {
 public:
+    static bool compare(const int &a, const int &b) {
+        return abs(a) < abs(b);
+    }
+
     long long maxAlternatingSum(vector<int>& nums) {
         long long i = 0, j = nums.size() - 1;
         long long result = 0;
 
-        for (int p = 0; p < nums.size(); p++) nums[p] = abs(nums[p]);
-        sort(nums.begin(), nums.end());
+        sort(nums.begin(), nums.end(), compare);
 
         while (i <= j) {
             if (i == j) {
