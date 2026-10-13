@@ -1,33 +1,22 @@
+
 class Solution {
 public:
-    bool isNStraightHand(vector<int>& hand, int gSize) {
-        if (hand.size() % gSize != 0) return false;
+    bool isNStraightHand(vector<int>& hand, int groupSize) {
+        if (hand.size() % groupSize != 0) return false;
+        map<int, int> freq;
 
-        priority_queue<int, vector<int>, greater<int>> pq;
-        unordered_map<int, int> mpp;
+        for (int card : hand) freq[card]++;
+        
+        while (!freq.empty()) {
+            int start = freq.begin()->first;
 
-        for (int i = 0; i < hand.size(); i++) mpp[hand[i]]++;
-        for (auto& i : mpp) pq.push(i.first);
+            for (int x = start; x < start + groupSize; x++) {
+                auto it = freq.find(x);
+                if (it == freq.end()) return false;
 
-        while (!pq.empty()) {
-            vector<int> replacedTasks;
-            int prev;
-
-            for (int i = 0; i < gSize; i++) {
-                if (!pq.empty()) {
-                    if (i > 0 && prev + 1 != pq.top()) return false;
-                    prev = pq.top();
-                    mpp[pq.top()]--;
-    
-                    if (mpp[pq.top()] == 0) mpp.erase(pq.top());
-                    else replacedTasks.push_back(pq.top());
-
-                    pq.pop();
-
-                } else return false;
+                it->second--;
+                if (it->second == 0) freq.erase(it);
             }
-
-            for (int i = 0; i < replacedTasks.size(); i++) pq.push(replacedTasks[i]);
         }
 
         return true;
