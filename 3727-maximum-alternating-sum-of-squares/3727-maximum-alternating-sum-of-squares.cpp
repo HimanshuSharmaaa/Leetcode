@@ -5,10 +5,10 @@ public:
     }
 
     long long maxAlternatingSum(vector<int>& nums) {
-        long long i = 0, j = nums.size() - 1;
-        long long result = 0;
-
         sort(nums.begin(), nums.end(), compare);
+
+        int i = 0, j = nums.size() - 1;
+        long long result = 0;
 
         while (i <= j) {
             if (i == j) {
