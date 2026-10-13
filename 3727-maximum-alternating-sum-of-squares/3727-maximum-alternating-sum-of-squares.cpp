@@ -10,16 +10,12 @@ public:
         int i = 0, j = nums.size() - 1;
         long long result = 0;
 
-        while (i <= j) {
-            if (i == j) {
-                result += nums[j] * nums[j];
-                break;
-            }
-
-            result += (nums[j] * nums[j]) - (nums[i] * nums[i]);
+        while (i < j) {
+            result += (1LL * nums[j] * nums[j]) - (1LL * nums[i] * nums[i]);
             i++, j--;
         }
 
+        if (i == j) result += 1LL * nums[i] * nums[i];
         return result;
     }
 };
