@@ -5,7 +5,7 @@ public:
 
         for(int i = 0; i < nums.size(); i++) {
             if(target == nums[i]) count++;
-            if(nums[i] < target) place++;
+            else if(nums[i] < target) place++;
         }
 
         vector<int> result;
