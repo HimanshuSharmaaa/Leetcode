@@ -8,16 +8,18 @@ public:
 
     bool isPalindrome(string s) {
         if(s.size() <= 1) return true;
-        string str = "";
+        int start = 0;
 
         for(int i = 0; i < s.size(); i++){
             if(s[i] >= 'a' && s[i] <= 'z' || s[i] >= 'A' && s[i] <= 'Z') {
-                str += tolower(s[i]);
+                s[start] = tolower(s[i]);
+                start++;
             } else if(s[i] >= '0' && s[i] <= '9') {
-                str += s[i];
+                s[start] = s[i];
+                start++;
             }
         }
 
-        return checkPalindrome(str, 0, str.size()-1);
+        return checkPalindrome(s, 0, start-1);
     }
 };
