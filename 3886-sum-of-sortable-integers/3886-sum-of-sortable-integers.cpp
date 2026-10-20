@@ -1,81 +1,67 @@
-
 class Solution {
 public:
-    vector<int> buildLPS(const vector<int>& pattern) {
-        int m = pattern.size();
-        vector<int> lps(m, 0);
+    int sortableIntegers(std::vector<int>& nums) {
+        int n = nums.size();
+        
+        vector<int> divisors;
+        for (int i = 1; i * i <= n; ++i) {
+            if (n % i == 0) {
+                divisors.push_back(i);
+                if (i * i != n) divisors.push_back(n / i);
+            }
+        }
 
-        int len = 0;
-        int i = 1;
+        int total_sum = 0;
 
-        while (i < m) {
-            if (pattern[i] == pattern[len]) {
-                lps[i++] = ++len;
-            } else {
-                if (len != 0) {
-                    len = lps[len - 1];
-                } else {
-                    lps[i++] = 0;
+        for (int k : divisors) {
+            bool valid = true;
+            int prev_max = -1; 
+
+            for (int i = 0; i < n; i += k) {
+                // Check block nums[i ... i + k - 1]
+                int drops = 0;
+                int drop_idx = -1;
+
+                for (int j = 0; j < k - 1; ++j) {
+                    if (nums[i + j] > nums[i + j + 1]) {
+                        drops++;
+                        drop_idx = j;
+                    }
                 }
-            }
-        }
 
-        return lps;
-    }
+                int block_min, block_max;
 
-    bool isRotateAble(const vector<int>& subpart,
-                      const vector<int>& check) {
-        int n = subpart.size();
-        if (n != (int)check.size()) return false;
-
-        vector<int> lps = buildLPS(check);
-
-        int i = 0, j = 0;
-
-        while (i < 2 * n - 1) {
-            int current = subpart[i % n];
-
-            if (current == check[j]) {
-                i++;
-                j++;
-
-                if (j == n) return true;
-            } else if (j > 0) {
-                j = lps[j - 1];
-            } else {
-                i++;
-            }
-        }
-
-        return false;
-    }
-
-    int sortableIntegers(vector<int>& nums) {
-        int n = nums.size(), sum = 0;
-
-        vector<int> sorted = nums;
-        sort(sorted.begin(), sorted.end());
-
-        for (int k = 1; k <= n; k++) {
-            if (n % k != 0) continue;
-
-            bool isValidK = true;
-            for (int start = 0; start < n; start += k) {
-                vector<int> check(sorted.begin() + start,
-                                  sorted.begin() + start + k);
-
-                vector<int> subpart(nums.begin() + start,
-                                    nums.begin() + start + k);
-
-                if (!isRotateAble(subpart, check)) {
-                    isValidK = false;
+                if (drops == 0) {
+                    block_min = nums[i];
+                    block_max = nums[i + k - 1];
+                } else if (drops == 1) {
+                    // Cyclic rotation is valid only if last element <= first element
+                    if (nums[i + k - 1] > nums[i]) {
+                        valid = false;
+                        break;
+                    }
+                    block_min = nums[i + drop_idx + 1];
+                    block_max = nums[i + drop_idx];
+                } else {
+                    // More than 1 drop cannot be sorted by rotation
+                    valid = false;
                     break;
                 }
+
+                // Check condition between consecutive blocks
+                if (prev_max != -1 && block_min < prev_max) {
+                    valid = false;
+                    break;
+                }
+
+                prev_max = block_max;
             }
 
-            if (isValidK) sum += k;
+            if (valid) {
+                total_sum += k;
+            }
         }
 
-        return sum;
+        return total_sum;
     }
 };
