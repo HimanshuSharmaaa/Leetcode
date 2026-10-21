@@ -10,7 +10,7 @@ public:
         char max_char = *max_element(s.begin(), s.end());
         
         if(min_char == s[0] || max_char == s[n-1]) return 1;
-        
+
         char min_mid = *min_element(s.begin()+1, s.end()-1);
         char max_mid = *max_element(s.begin()+1, s.end()-1);
 
