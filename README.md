@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0621-task-scheduler) |
@@ -403,6 +404,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0007-reverse-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
