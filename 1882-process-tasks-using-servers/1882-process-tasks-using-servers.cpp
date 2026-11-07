@@ -1,8 +1,6 @@
-
 class Solution {
 public:
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
-
         priority_queue<
             pair<int,int>,
             vector<pair<int,int>>,
