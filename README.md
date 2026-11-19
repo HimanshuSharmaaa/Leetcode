@@ -59,6 +59,7 @@
 | [2381-shifting-letters-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2536-increment-submatrices-by-one](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -149,6 +150,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -284,6 +286,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HimanshuSharmaaa/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
